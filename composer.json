@@ -1,0 +1,11 @@
+{
+    "name": "danbal/danbal_frontender",
+    "type": "typo3-cms-extension",
+    "authors": [
+        {
+            "name": "Daniel Balzter",
+            "email": "dudel@dudel.org"
+        }
+    ],
+    "require": {}
+}
